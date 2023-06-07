@@ -28,7 +28,7 @@ Node.js Setup uses a `.env` file for configuration. You can modify the `.env` fi
 
 ## Project Structure
 
-After running `nodejs_setup`, your project directory will have the following structure:
+After running `node-thunder`, your project directory will have the following structure:
 
 models/
 routes/
